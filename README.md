@@ -3,4 +3,4 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funayamateppei&layout=compact&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=funayamateppei)](https://github.com/funayamateppei/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=funayamateppei&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)

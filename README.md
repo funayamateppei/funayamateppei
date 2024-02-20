@@ -3,3 +3,5 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funayamateppei&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=funayamateppei)](https://github.com/funayamateppei/github-profile-trophy)

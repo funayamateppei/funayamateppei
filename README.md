@@ -5,4 +5,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funayamateppei" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=funayamateppei)](https://github.com/funayamateppei/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funayamateppei&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)

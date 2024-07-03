@@ -1,3 +1,15 @@
+<br>
+
+- 📫 How to reach me: [Twitter - @funamushi0217](https://twitter.com/funamushi0217)
+
+<br>
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,nodejs,figma,docker,php,laravel" />
+<br>
+
+
+
 <p align=left> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=funayamateppei&theme=onedark&show_icons=true" />
 

@@ -1,6 +1,6 @@
 <br>
 
-- 📫 How to reach me: [Twitter - @funamushi0217](https://twitter.com/fe19990217)
+- 📫 How to reach me: [Twitter - @fe19990217](https://twitter.com/fe19990217)
 
 <br>
 

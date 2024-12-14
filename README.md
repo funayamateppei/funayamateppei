@@ -5,10 +5,11 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,c#" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=nodejs,nestjs,php,laravel" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=mysql,mongo" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=azure,apollo,graphql,docker,figma,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=azure,firebase,githubactions,apollo,graphql,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=figma,notion" />
 <br>
 
 

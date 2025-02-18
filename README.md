@@ -19,3 +19,5 @@
 </p>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=funayamateppei&theme=onedark&title=-Stars,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://komarev.com/ghpvc/?username=funayamateppei" alt="funayamateppei" />

@@ -5,11 +5,16 @@
 <br>
 
 ## 🌱 Skills
+<br>
+
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,cs" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=nodejs,nestjs,php,laravel,mysql,mongo" />
-
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=azure,firebase,githubactions,apollo,graphql,docker" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=figma,notion" />
+
+<br>
+
+## 🏆 Trophy
 <br>
 
 <p align=left> 
@@ -19,5 +24,7 @@
 </p>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=funayamateppei&theme=onedark&title=-Stars,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=funayamateppei" alt="funayamateppei" />

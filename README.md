@@ -10,7 +10,7 @@
 <br>
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,react,next,cs,net" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=nodejs,nestjs,php,laravel,kotlin,spring" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=nodejs,nestjs,php,laravel,kotlin,spring,python,fastapi" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=mysql,mongo,postgres" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=azure,firebase,githubactions,apollo,graphql,docker,vite,gradle" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=figma,notion" />

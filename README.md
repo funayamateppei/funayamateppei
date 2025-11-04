@@ -2,7 +2,7 @@
 
 <br>
 
-- 📫 How to reach me: [Twitter - @tpp__fn8m](https://twitter.com/tpp__fn8m)
+- 📫 How to reach me: [X(Twitter) - @tpp__fn8m](https://twitter.com/tpp__fn8m)
 
 <br>
 

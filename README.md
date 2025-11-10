@@ -16,15 +16,19 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=figma,notion" />
 
 <br>
-
-## 🏆 Trophy
 <br>
 
-<p align=left> 
+## 📊 Stats
+
+<div align-left>
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=funayamateppei&theme=onedark&show_icons=true" />
 
   <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=funayamateppei&theme=onedark&utcOffset=9" />
-</p>
+</div>
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=funayamateppei&theme=dark" alt="GitHub Streak Stats" />
+
+
+## 🏆 Trophy
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=funayamateppei&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

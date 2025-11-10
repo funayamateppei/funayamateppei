@@ -20,7 +20,6 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=figma,notion" />
 
 <br>
-<br>
 
 
 ## 📊 Stats
@@ -35,7 +34,6 @@
 
 <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=funayamateppei&theme=dark" alt="GitHub Streak Stats" />
 
-<br>
 <br>
 
 

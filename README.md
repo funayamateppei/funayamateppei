@@ -32,7 +32,7 @@
   <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=funayamateppei&theme=onedark&utcOffset=9" />
 </div>
 
-<img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=funayamateppei&theme=dark&card_width=450&card_height=180" />
+<img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-omega-seven-89.vercel.app?user=funayamateppei&theme=dark&card_width=450&card_height=180" />
 
 
 <br>

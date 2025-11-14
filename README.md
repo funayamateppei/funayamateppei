@@ -4,20 +4,27 @@
 
 <br>
 
-
 - 📫 How to reach me: [X(Twitter) - @tpp__fn8m](https://twitter.com/tpp__fn8m)
 
 <br>
 
+
 ## 🌱 Skills
 
-<br>
+### 📜 Languages
+<img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,cs,nodejs,php,java,kotlin,python" />
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,react,next,cs,net" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=nodejs,nestjs,php,laravel,kotlin,spring,python,fastapi" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=mysql,mongo,postgres,sqlite" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=azure,firebase,vercel,heroku,githubactions,apollo,graphql,docker,vite,gradle,terraform,tailwind,mui,jest" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=figma,notion,postman" />
+### ⚛️ Frameworks & Libraries
+<img alt="Frameworks and Libraries" src="https://skillicons.dev/icons?theme=dark&perline=8&i=react,next,net,nestjs,laravel,spring,fastapi,tailwind,mui" />
+
+### 🛠️ Tools & Technologies
+<img alt="Tools and Technologies" src="https://skillicons.dev/icons?theme=dark&perline=8&i=jest,vite,apollo,graphql,docker,gradle,terraform,githubactions,figma,notion,postman" />
+
+### 💾 Databases
+<img alt="Databases" src="https://skillicons.dev/icons?theme=dark&perline=8&i=mysql,mongo,postgres,sqlite" />
+
+### ☁️ Cloud & Hosting
+<img alt="Cloud and Hosting" src="https://skillicons.dev/icons?theme=dark&perline=8&i=azure,firebase,vercel,heroku" />
 
 <br>
 

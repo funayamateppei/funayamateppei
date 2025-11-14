@@ -12,19 +12,19 @@
 ## 🌱 Skills
 
 ### 📜 Languages
-<img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,cs,nodejs,php,java,kotlin,python" />
+<img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,ts,cs,nodejs,php,java,kotlin,python" />
 
 ### ⚛️ Frameworks & Libraries
-<img alt="Frameworks and Libraries" src="https://skillicons.dev/icons?theme=dark&perline=8&i=react,next,net,nestjs,laravel,spring,fastapi,tailwind,mui" />
+<img alt="Frameworks and Libraries" src="https://skillicons.dev/icons?theme=dark&perline=12&i=react,next,net,nestjs,laravel,spring,fastapi,tailwind,mui" />
 
 ### 🛠️ Tools & Technologies
-<img alt="Tools and Technologies" src="https://skillicons.dev/icons?theme=dark&perline=8&i=jest,vite,apollo,graphql,docker,gradle,terraform,githubactions,figma,notion,postman" />
+<img alt="Tools and Technologies" src="https://skillicons.dev/icons?theme=dark&perline=12&i=jest,vite,apollo,graphql,docker,gradle,terraform,githubactions,figma,notion,postman" />
 
 ### 💾 Databases
-<img alt="Databases" src="https://skillicons.dev/icons?theme=dark&perline=8&i=mysql,mongo,postgres,sqlite" />
+<img alt="Databases" src="https://skillicons.dev/icons?theme=dark&perline=12&i=mysql,mongo,postgres,sqlite" />
 
 ### ☁️ Cloud & Hosting
-<img alt="Cloud and Hosting" src="https://skillicons.dev/icons?theme=dark&perline=8&i=azure,firebase,vercel,heroku" />
+<img alt="Cloud and Hosting" src="https://skillicons.dev/icons?theme=dark&perline=12&i=azure,firebase,vercel,heroku" />
 
 <br>
 

@@ -41,7 +41,6 @@
 
 <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-omega-seven-89.vercel.app?user=funayamateppei&theme=dark&card_width=450&card_height=180" />
 
-
 <br>
 
 
@@ -50,3 +49,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=funayamateppei&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
+
+
+<div align="center">
+  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/funayamateppei/github-contributions-3d/assets/contribution-graph.gif" width="400" />
+</div>

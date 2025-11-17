@@ -39,11 +39,11 @@
   <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=funayamateppei&theme=onedark&utcOffset=9" />
 </div>
 
-<br>
-
 <div align="center">
   <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/funayamateppei/github-contributions-3d/assets/contribution-graph.gif" width="400" />
 </div>
+
+<br>
 
 <div align="center">
   <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-omega-seven-89.vercel.app?user=funayamateppei&theme=dark&card_width=450&card_height=180" />

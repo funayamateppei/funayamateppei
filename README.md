@@ -12,7 +12,7 @@
 ## 🌱 Skills
 
 ### 📜 Languages
-<img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,ts,cs,nodejs,php,java,kotlin,python" />
+<img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,ts,cs,nodejs,php,java,kotlin,python,swift" />
 
 ### ⚛️ Frameworks & Libraries
 <img alt="Frameworks and Libraries" src="https://skillicons.dev/icons?theme=dark&perline=12&i=react,next,net,nestjs,laravel,spring,fastapi,tailwind,mui" />

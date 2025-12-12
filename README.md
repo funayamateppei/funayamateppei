@@ -34,28 +34,13 @@
 <br>
 
 <div align="center">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=funayamateppei&theme=onedark&show_icons=true" />
-
-  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=funayamateppei&theme=onedark&utcOffset=9" />
-</div>
-
-<div align="center">
-  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/funayamateppei/github-contributions-3d/assets/contribution-graph.gif" width="400" />
-</div>
-
-<br>
-
-<div align="center">
   <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-omega-seven-89.vercel.app?user=funayamateppei&theme=dark&card_width=450&card_height=180" />
 </div>
 
 <br>
 
-
-## 🏆 Trophy
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=funayamateppei&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
+<div align="center" spacing="1">
+  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/funayamateppei/github-contributions-3d/assets/contribution-graph.gif" width="400" />
+</div>
 
 

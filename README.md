@@ -19,6 +19,7 @@
 
 ### 🛠️ Tools & Technologies
 <img alt="Tools and Technologies" src="https://skillicons.dev/icons?theme=dark&perline=12&i=jest,vite,apollo,graphql,docker,gradle,terraform,githubactions,figma,notion,postman" />
+<img alt="Tools and Technologies" src="https://skillicons.dev/icons?theme=dark&perline=12&i=androidstudio,vscode,visualstudio" />
 
 ### 💾 Databases
 <img alt="Databases" src="https://skillicons.dev/icons?theme=dark&perline=12&i=mysql,mongo,postgres,sqlite" />
